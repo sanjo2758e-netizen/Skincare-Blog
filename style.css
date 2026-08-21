@@ -7,10 +7,18 @@ background:#f8f8f8;
 
 header{
     margin: 0px;
-background:#ff69b4;
+background:#ff6f9f;
 color:white;
 text-align:center;
+align-items: center;
 padding:30px;
+}
+.logo{
+    height:50px;
+    vertical-align: -10px;
+    padding-top: 
+    
+    
 }
 
 nav{
@@ -26,14 +34,6 @@ nav a{
 color:white;
 text-decoration:none;
 margin:20px;
-}
-
-.logo{
-    height:50px;
-    vertical-align: -10px;
-    padding-top: 
-    
-    
 }
 
 .hero{
